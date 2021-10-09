@@ -14,7 +14,7 @@ import json
 class DesignerGui(QDialog):  # QDialog class is inheritance
 
     def __init__(self):
-        super().__init__()   # super ile QDialog classlarına erişiyoruz,
+        super().__init__()   # super ile QDialog classlarına erişiyoruz
         loadUi("durak.ui",self)
         self.onaybtn.clicked.connect(self.hesapla)
         self.btnAracDepo.clicked.connect(mp3.Anons)
