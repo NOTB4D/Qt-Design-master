@@ -1,0 +1,210 @@
+{
+    "istasyon": [{
+            "id": "1",
+            "istasyonadi": "Başakşehir Metrokent",
+            "istasyonMesafe": "0",
+            "istasyonEn": "69",
+            "istasyonBoy": "170",
+            "aktarma": "1",
+            "kapibilgisi": "1",
+            "ilkdurak": "1",
+            "aktarmaAdı": "27",
+            "aktarmaAcıklama": "Yenikapı-Kirazlı Metro",
+            "aktaramacıklama2": "Metro Line"
+        },
+        {
+            "id": "2",
+            "istasyonadi": "Başak Konutları",
+            "istasyonMesafe": "640",
+            "istasyonEn": "16,6",
+            "istasyonBoy": "156",
+            "aktarma": "0",
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAdı": "",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "3",
+            "istasyonadi": "Siteler",
+            "istasyonMesafe": "852",
+            "istasyonEn": "13.4",
+            "istasyonBoy": "159",
+            "aktarma": "0",
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAdı": "",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "4",
+            "istasyonadi": "Turgut Özal",
+            "istasyonMesafe": "563",
+            "istasyonEn": "13.4",
+            "istasyonBoy": "381",
+            "aktarma": "0",
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAdı": "",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "5",
+            "istasyonadi": "İkitelli Sanayi",
+            "istasyonMesafe": "647",
+            "istasyonEn": "11",
+            "istasyonBoy": "142",
+            "aktarma": "1",
+            "aktarmaAdı": [{
+                    "aktarmano": "m7"
+                },
+                {
+                    "aktarmano": "m9"
+                },
+                {
+                    "aktarmano": "m9"
+                },
+                {
+                    "aktarmano": "m9"
+                },
+                {
+                    "aktarmano": "m9"
+                }
+            ],
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAcıklama": "Yenikapı-Kirazlı Metro",
+            "aktaramacıklama2": "Metro Line"
+        },
+        {
+            "id": "6",
+            "istasyonadi": "İstoç",
+            "istasyonMesafe": "530",
+            "istasyonEn": "13.1",
+            "istasyonBoy": "145",
+            "aktarma": "",
+            "aktarmaAdı": "",
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAcıklama": "Yenikapı-Kirazlı Metro",
+            "aktaramacıklama2": "Metro station"
+        },
+        {
+            "id": "7",
+            "istasyonadi": "Mahmutbey",
+            "istasyonMesafe": "860",
+            "istasyonEn": "12.5",
+            "istasyonBoy": "169",
+            "aktarma": "1",
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAdı": "m7",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "8",
+            "istasyonadi": "Yenimahalle",
+            "istasyonMesafe": "700",
+            "istasyonEn": "13.1",
+            "istasyonBoy": "193",
+            "aktarma": "0",
+            "kapibilgisi": "1",
+            "ilkdurak": "0",
+            "aktarmaAdı": "",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "9",
+            "istasyonadi": "Kirazlı Bağcılar",
+            "istasyonMesafe": "1100",
+            "istasyonEn": "12.1",
+            "istasyonBoy": "180",
+            "aktarma": "1",
+            "kapibilgisi": "1",
+            "ilkdurak": "1",
+            "aktarmaAdı": "M1B",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "9",
+            "istasyonadi": "Kirazlı Bağcılar",
+            "istasyonMesafe": "1100",
+            "istasyonEn": "12.1",
+            "istasyonBoy": "180",
+            "aktarma": "1",
+            "kapibilgisi": "1",
+            "ilkdurak": "1",
+            "aktarmaAdı": "M1B",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "9",
+            "istasyonadi": "Kirazlı Bağcılar",
+            "istasyonMesafe": "1100",
+            "istasyonEn": "12.1",
+            "istasyonBoy": "180",
+            "aktarma": "1",
+            "kapibilgisi": "1",
+            "ilkdurak": "1",
+            "aktarmaAdı": "M1B",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        },
+        {
+            "id": "9",
+            "istasyonadi": "Kirazlı Bağcılar",
+            "istasyonMesafe": "1100",
+            "istasyonEn": "12.1",
+            "istasyonBoy": "180",
+            "aktarma": "1",
+            "kapibilgisi": "1",
+            "ilkdurak": "1",
+            "aktarmaAdı": "M1B",
+            "aktarmaAcıklama": "",
+            "aktaramacıklama2": ""
+        }
+    ],
+    "kapibilgisi": "1",
+    "Aktarmabilgisi": [{
+            "aktarmaAdı": "M1B",
+            "aktarmaAcıklama": "Yenikapı-Kirazlı Metro",
+            "aktaramacıklama2": "Metro Line"
+        },
+        {
+            "aktarmaAdı": "kM3",
+            "aktarmaAcıklama": "Kirazli-Başakşekir Metrokent Metro",
+            "aktaramacıklama2": "Metro Line"
+        },
+        {
+            "aktarmaAdı": "kM7",
+            "aktarmaAcıklama": "Mecidiyeköy-mahmutbey Metro",
+            "aktaramacıklama2": "Metro Line"
+        },
+        {
+            "aktarmaAdı": "kM9",
+            "aktarmaAcıklama": "Bahariye-olimpiyat Metro",
+            "aktaramacıklama2": "Metro Line"
+        },
+        {
+            "aktarmaAdı": "27",
+            "aktarmaAcıklama": "İETT Metro Besleme Hattı",
+            "aktaramacıklama2": "Metro Feeder Bus Line"
+        },
+        {
+            "aktarmaAdı": "19",
+            "aktarmaAcıklama": "Aktarma İstasyonu",
+            "aktaramacıklama2": "Transfer Station"
+        }
+    ],
+    "zaman": "",
+    "metroAmblem": "metroistanbul-drm-ornek-07.png",
+    "MetrohatLogo": "m3",
+    "metroHatAdı": "BAŞAKŞEHİR-METROKENT >> KİRAZLI"
+}
