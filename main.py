@@ -40,7 +40,7 @@ class DesignerGui(QDialog):  # QDialog class is inheritance
             btn.text=irota
             self.gridLayout_2.addWidget(btn,*position)
             self.grBoxStation.setLayout(self.gridLayout_2)
-            ###
+            
             
       
   
