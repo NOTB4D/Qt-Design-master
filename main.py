@@ -16,7 +16,7 @@ class DesignerGui(QDialog):  # QDialog class is inheritance
     def __init__(self):
         super().__init__()   # super ile QDialog classlarına erişiyoruz
         loadUi("durak.ui",self)
-        self.onaybtn.clicked.connect(self.hesapla)
+        #self.onaybtn.clicked.connect(self.hesapla)
         self.btnAracDepo.clicked.connect(mp3.Anons)
         self.hatcombobox.activated.connect(self.handleItemPressed)
         
@@ -28,24 +28,24 @@ class DesignerGui(QDialog):  # QDialog class is inheritance
         item = self.hatcombobox.currentText()
         name='./stations/'+item+'.json'
         data =jsonOku.JsonOku(name)
-        btn = QPushButton()
-        btn.setFixedSize(150,50)
         for i in data['istasyon']: 
             a=(i["istasyonadi"])
             rota.append(a) 
         positions = [(a,b) for a in range(5) for b in range(3)]   # 3 e 5 matrix oluşturmak için kullanıyoruz.
         for position ,irota in zip(positions,rota):   # zip fonksiyonu matrix oluşturmaya yarar.
-            btn= QPushButton(irota)
+            btn= QPushButton(text=irota, objectName=irota)
             btn.setFixedSize(150,50)
             btn.setFont(QFont('Arial-Black',9))
             btn.setToolTip('İstasyonlari oluşturun')
+            btn.text=irota
             self.gridLayout_2.addWidget(btn,*position)
             self.grBoxStation.setLayout(self.gridLayout_2)
+            
       
   
     
     def hesapla(self):
-        data =jsonOku.JsonOku('data1.json') 
+        print('eser') 
         
             
 
